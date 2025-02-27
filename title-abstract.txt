@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Effectiveness of PRS models Across Populations
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Polygenic risk scores (PRS) estimate genetic predisposition to diseases and traits, often using genome-wide association studies (GWAS). While PRS holds promise for precision medicine, its clinical use is uncertain since models are primarily trained on European (EUR) populations, as it is the most widely available data, limiting their generalizability across ancestries. In this study, we evaluate this issue by examining differences in gene-disease associations across ancestry-specific GWAS summary statistics for heart failure. Specifically, we integrate GWAS summary statistics from European (EUR), African (AFR), East Asian (EAS), and American (AMR) populations with EUR-based gene expression data from the 1000 Genomes Project to infer gene-disease associations using FUSION. By analyzing how gene associations vary when applying EUR-derived models to non-EUR populations, our findings provide insight into how a PRS model trained on EUR data may perform differently across ancestries. The study sheds light on gene-level differences in heart failure risk across populations and highlights the need for more diverse gene expression reference panels to improve the generalizability of genomic models like PRS.
